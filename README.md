@@ -1,4 +1,4 @@
-# Jorge Terceros
+
 ## Data Engineer | DevOps Architect | AI Enthusiast | Frontend Visionary
 
 ### 🧠 A Mindset for Innovation
