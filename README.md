@@ -69,7 +69,7 @@ If you’re seeking a **strategic partner** who combines deep technical expertis
 
 **Your vision is my mission. Let’s create the extraordinary.**
 
-📧 **Contact Me**: [Your Email Address]  
-🌐 **Portfolio**: [Your Portfolio Link]  
-🔗 **LinkedIn**: [Your LinkedIn Profile]  
-🐙 **GitHub**: [Your GitHub Profile]
+📧 **Contact Me**: [optimoter@gmail.com]  
+🌐 **Portfolio**: [on coming]  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/jorge-terceros-273155168/]  
+🐙 **GitHub**: [LemmaUX]
