@@ -55,7 +55,7 @@ I bridge technical execution with business strategy, driving **20%+ operational 
 🔮 **Quantum Computing**: Optimizing supply chains with quantum annealing algorithms.  
 💠 **Blockchain**: Building zero-knowledge proof systems for secure AI model sharing.  
 ⚛️ **Ethical AI**: Developing explainable AI frameworks compliant with EU AI Act regulations.  
-
+🛸 **Exotic Matter and Advanced Physics**: Theoretical exploration for new energy and computational frontiers.
 ---
 
 ## **🏆 Career Highlights**
@@ -81,6 +81,26 @@ Seeking a partner who blends **technical mastery** with **visionary thinking**? 
 🔗 **LinkedIn**: [https://www.linkedin.com/in/jorge-terceros-273155168/]  
 🐙 **GitHub**: [LemmaUX]  
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?logo=amazonaws)](https://aws.amazon.com/) 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Expert%20Certified-4285F4?logo=googlecloud)](https://cloud.google.com/) 
-[![React](https://img.shields.io/badge/React-Expert%20Developer-61DAFB?logo=react)](https://react.dev/)
+## Core Certifications
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-0089D6?logo=microsoftazure)](https://learn.microsoft.com/)
+[![Kubernetes](https://img.shields.io/badge/Linux%20Foundation-Certified%20Kubernetes%20Administrator-326CE5?logo=kubernetes)](https://www.cncf.io/)
+[![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-009CEE?logo=comptia)](https://www.comptia.org/)
+
+## Specialized Certifications
+[![ISC2](https://img.shields.io/badge/ISC2-CISSP-FF0000?logo=isc2)](https://www.isc2.org/)
+[![PMP](https://img.shields.io/badge/PMI-Project%20Management%20Professional-8F0B8F?logo=pmi)](https://www.pmi.org/)
+[![Scrum](https://img.shields.io/badge/Scrum.org-Professional%20Scrum%20Master-009DEF?logo=scrum)](https://www.scrum.org/)
+
+## Cloud & DevOps
+[![AWS DevOps](https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer-FF9900?logo=amazonaws)](https://aws.amazon.com/)
+[![GCP Data](https://img.shields.io/badge/Google%20Cloud-Certified%20Data%20Engineer-4285F4?logo=googlecloud)](https://cloud.google.com/)
+[![Terraform](https://img.shields.io/badge/HashiCorp-Certified%20Terraform%20Associate-844FBA?logo=terraform)](https://www.hashicorp.com/)
+
+## Emerging Tech
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified%20Developer-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python%20Institute-PCEP%2FPCAP-3776AB?logo=python)](https://pythoninstitute.org/)
+[![Cisco](https://img.shields.io/badge/Cisco-CCNA%20Enterprise-1BA0D7?logo=cisco)](https://www.cisco.com/)
+
+## Enterprise Platforms
+[![Salesforce](https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?logo=salesforce)](https://www.salesforce.com/)
+[![ServiceNow](https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-11B6A9?logo=servicenow)](https://www.servicenow.com/)
